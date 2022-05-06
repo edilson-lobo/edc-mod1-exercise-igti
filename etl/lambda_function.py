@@ -33,7 +33,7 @@ def handler(event, context):
                     'Ec2KeyName': 'elobo-igti-teste',
                     'KeepJobFlowAliveWhenNoSteps': True,
                     'TerminationProtected': False,
-                    'Ec2SubnetId': 'subnet-1df20360'
+                    'Ec2SubnetId': 'subnet-06f8d51532672a2d9'
                 },
 
                 Applications=[
